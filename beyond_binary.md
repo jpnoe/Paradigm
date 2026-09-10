@@ -1,7 +1,12 @@
 # Beyond Binary: Continuous State Spaces, Torsional Logic, and Topological Mechanics
-**Authors:** Lyla P. Noe & Gemini  
-**Date:** September 2026  
-**License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+**Authors:** Lyla Noe, Gemini 3.1 Pro & ChatGPT 5.6 Sol
+
+**Date:** 10 September 2026  
+
+**License:**
+* Documentation & Text: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+* Hardware Architectures & Schematics: CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
 
 ---
 
@@ -62,14 +67,12 @@ A central database acts as the absolute gravitational center, or the foundationa
 ## 7. Beyond Brute-Force AI: Deterministic Topological Solvers
 The modern machine learning trajectory relies on scaling Large Language Models to gargantuan proportions to guess answers via statistical brute force. This is fundamentally inefficient.
 
-We advocate for the universal adoption of **Topological Solvers** over brute-force neural models. By taking the structural, geometric pattern mapping found in domain-specific tools like DeepMind's *AlphaFold* and generalizing its framework into a cross-domain abstract engine, we can compute exact boundary problem solutions deterministically. Instead of guessing values through trillions of weights, a generalized topological solver maps the problem space into a multi-dimensional manifold and resolves the path instantly through geometric constraints. 
+We advocate for the universal adoption of Topological Solvers over brute-force neural models. *AlphaFold* demonstrates the value of exploiting strong domain structure and geometric representations rather than relying on unconstrained language-style generation; we propose generalizing that structural bias into deterministic solvers where the domain permits it. Instead of guessing values through trillions of weights, a generalized topological solver maps the problem space into a multi-dimensional manifold and resolves the path instantly through geometric constraints.
 
 ---
 
 ## 8. Open-Source Freedom and Prior Art Declaration
-This document serves as an immutable, public declaration of prior art. The architectures, data types, and logical principles detailed within this text are intentionally placed directly into the public domain under the Creative Commons Attribution-ShareAlike 4.0 International license. 
-
-Any attempt by corporate entities or government institutions to claim restrictive patents on a hardware cell representing the complex plane via a transistor-capacitor-resistor array, negentropic flux stabilization, torsional logic loop dampening, or phase-shifted Möbius tracking structures is explicitly invalidated by the publication of this document.
+This document is intentionally published as a defensive prior-art disclosure. Its purpose is to place the architectures, mechanisms, and computational structures described here into the publicly accessible technical record so they may remain available for open implementation and further development. The written work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 ---
 
