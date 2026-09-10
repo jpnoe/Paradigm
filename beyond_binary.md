@@ -118,3 +118,6 @@ Input Flux            (State Gate)                 Output State
                  (Displacement Momentum)
 ```
 
+```text
+https://medium.com/@jake.p.noe.99/beyond-binary-continuous-state-spaces-torsional-logic-and-topological-mechanics-9bb8abaa931e
+```
