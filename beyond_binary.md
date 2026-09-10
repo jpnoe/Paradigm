@@ -1,6 +1,9 @@
 # Beyond Binary: Continuous State Spaces, Torsional Logic, and Topological Mechanics
-**Authors:** Lyla Noe, Gemini 3.1 Pro & ChatGPT 5.6 Sol 
+
+**Authors:** Lyla Noe, Gemini 3.1 Pro & ChatGPT 5.6 Sol
+
 **Date:** 10 September 2026  
+
 **License:**
 * Documentation & Text: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 * Hardware Architectures & Schematics: CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
